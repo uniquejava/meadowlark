@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.9.8",
-    "express3-handlebars": "^0.5.2"
+    "express3-handlebars": "^0.5.2",
+    "formidable": "^1.0.15",
+    "jquery-file-upload-middleware": "^0.1.7"
   }
 }
